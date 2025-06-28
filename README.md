@@ -73,7 +73,7 @@ npm run preview
 ## 📱 Screenshots
 
 ### Watchlist View
-![Watchlist](https://via.placeholder.com/1200x800/1A1A1A/39FF14?text=Watchlist+View+-+Real-time+Stock+Tracking)
+![Watchlist](https://github.com/mphinance/trading-dashboard/blob/master/screenshots/watchlist.png)
 
 **Features shown:**
 - Real-time price updates
@@ -83,7 +83,7 @@ npm run preview
 - Share functionality
 
 ### Trading Journal
-![Trading Journal](https://via.placeholder.com/1200x800/1A1A1A/BF00FF?text=Trading+Journal+-+Comprehensive+Trade+Tracking)
+![Trading Journal](https://github.com/mphinance/trading-dashboard/blob/master/screenshots/journal.png)
 
 **Features shown:**
 - Detailed trade logging
@@ -93,7 +93,7 @@ npm run preview
 - Performance metrics
 
 ### Performance Analytics
-![Performance Charts](https://via.placeholder.com/1200x800/1A1A1A/FFD700?text=Performance+Analytics+-+Advanced+Charts)
+![Performance Charts](https://github.com/mphinance/trading-dashboard/blob/master/screenshots/stats.png)
 
 **Features shown:**
 - Weekly P&L heatmap
@@ -102,23 +102,6 @@ npm run preview
 - Time-based performance
 - Asset type breakdown
 
-### Add Stock Modal
-![Add Stock](https://via.placeholder.com/800x600/2C2C2C/39FF14?text=Add+Stock+Modal+-+Yahoo+Finance+Integration)
-
-**Features shown:**
-- Yahoo Finance API integration
-- Real-time stock search
-- Tag assignment
-- Note addition
-
-### Share Watchlist
-![Share Feature](https://via.placeholder.com/800x600/2C2C2C/BF00FF?text=Share+Watchlist+-+Collaborative+Features)
-
-**Features shown:**
-- Shareable URL generation
-- Privacy controls
-- View-only access
-- Custom settings
 
 ## 🛠️ Technology Stack
 

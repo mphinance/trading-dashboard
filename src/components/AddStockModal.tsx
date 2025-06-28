@@ -19,7 +19,7 @@ export default function AddStockModal({ isOpen, onClose, onAdd, availableTags }:
   const fetchYahooFinanceData = async (symbol: string): Promise<Partial<Stock> | null> => {
     try {
       // Using proxied Yahoo Finance API endpoint
-      const response = await fetch(`/api/yahoo/v8/finance/chart/${symbol}`, {
+      const response = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}`, {
         method: 'GET',
         headers: {
           'Accept': 'application/json',

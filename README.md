@@ -73,7 +73,7 @@ npm run preview
 ## 📱 Screenshots
 
 ### Watchlist View
-![Watchlist](https://github.com/mphinance/trading-dashboard/blob/master/screenshots/watchlist.png)
+![Watchlist](https://github.com/mphinance/trading-dashboard/blob/master/screenshots/dashboard.png)
 
 **Features shown:**
 - Real-time price updates
